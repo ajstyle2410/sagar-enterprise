@@ -42,7 +42,7 @@
             <div class="input-group">
                 <div class=" search d-flex align-items-center gap-2  " data-bs-input-init>
                   <input type="search" id="form1" class=" border-0  search-bar" placeholder="Search a Products" />
-                   <button type="submit" class="btn"> <i class="fa fa-search fs-3"></i></button>
+                   <button type="submit" class="btn"> <i class=" search-icon fa fa-search fs-3 "></i></button>
 
                 </div>
               </div>
