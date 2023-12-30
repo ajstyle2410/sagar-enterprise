@@ -30,3 +30,15 @@
      .icons{
             color: #ffffff;
      }
+     button{
+	outline:hidden;
+	 cursor: pointer;
+}
+.navbar-nav-cart{
+	display: flex;
+	  gap:20vh;
+	  align-items: center;
+	  justify-content: center;
+	  
+	 
+}

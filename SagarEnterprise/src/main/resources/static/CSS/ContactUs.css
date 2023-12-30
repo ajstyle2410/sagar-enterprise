@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+ #details{
+        display: grid;
+       
+       justify-content: center;
+       align-items: center;
+       margin: 1vh;
+    }
+    #contact-textbox{
+        padding: 1vh;
+        width: 40vh;
+    }
+    #customer-support{
+        font-size: 10vh;
+        font-weight: 500;
+    }

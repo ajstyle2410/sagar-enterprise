@@ -5,11 +5,11 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.ModelAndView;
 
 @RestController
-public class Navbar {	
-  @GetMapping("navbar")
-  public ModelAndView navbarPage()
-  {
-	   return new ModelAndView("navbar");
-	   
-  }
+public class ContactUs {
+
+	 @GetMapping("contactUs")
+	  public ModelAndView getContactUs()
+	  {
+		  return new ModelAndView("ContactUs");
+	  }
 }
